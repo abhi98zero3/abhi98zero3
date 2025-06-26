@@ -2,7 +2,7 @@
 - 👀 I’m interested in App Development, Software Engineering, Competitive Programming and Web Development
 - 🌱 I’m currently learning Backend development
 - 💞️ I’m looking to collaborate on 
-- 📫 How to reach me : LinkedIn - www.linkedin.com/in/abhishek-nanda-92662a25b, E-Mail : nabhi090803@gmail.com
+- 📫 How to reach me : LinkedIn - www.linkedin.com/in/abhishek-nanda-92662a25b, E-Mail : abhishek.nanda.e@gmail.com
 - 😄 Pronouns: He/Him
 
 
